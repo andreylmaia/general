@@ -1,0 +1,37 @@
+# 做了什么事?
+# <类型>(这个commit 要影响哪个部分呢): 描述 (最多 50 字)
+# |<----  Using a Maximum Of 50 Characters  ---->|
+
+
+# 需要解释情况是什么？
+# |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+
+
+# 如果有的话，写下来jira任务
+
+
+# --- COMMIT END ---
+# 类型：
+#    feat     (新功能)
+#    fix      (修复代码)
+#    refactor (refact oring production code)
+#    style    (formatting, missing semi colons, etc; no code change)
+#    docs     (改变代码文档)
+#    test     (加测试代码; UnitTest)
+#    chore    (updating grunt tasks etc; no production code change)
+#    tmp      (暂时改变代码 - 为了测试)
+#
+# --------------------
+# Remember to
+#    Use the imperative mood in the subject line
+#    Separate subject from body with a blank line
+#    Use the body to explain what and why vs. how
+#    Can use multiple lines with "-" for bullet points in body
+#
+# 例子
+#
+# feat(Moment): 修改排序逻辑
+#
+# 现在旧的moment要拍前面
+#
+# MON-13121
